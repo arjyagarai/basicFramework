@@ -38,7 +38,7 @@ class Test_login_01(BaseTest):
     def test_loginToApplication(self):
         self.logger.info("=====test_loginToApplication======")
         self.logger.info("Loging to Application")
-        # self.driver.get(self.baseURL)
+        # self.driver.get(self.baseURL) 
         # self.lpage = LoginPage(self.driver)
         # self.lpage.clickOnLoginlink()
         # self.logger.info("Clicking on Login link")
