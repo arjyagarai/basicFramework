@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_login.py:38 =====test_loginToApplication======
+[32mINFO    [0m root:test_login.py:39 Loging to Application
+[32mINFO    [0m root:test_login.py:58 Clicking on Login link
+[32mINFO    [0m root:test_login.py:61 Entered Username practicewitharjya@gmail.com
+[32mINFO    [0m root:test_login.py:64 ======Execution has been completed=======
